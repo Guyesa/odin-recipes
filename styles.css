@@ -4,6 +4,7 @@
     justify-content: space-around;
     gap:1rem;
     align-items: baseline;
+    flex:1
     
  }
  .nav-list{
@@ -46,4 +47,16 @@ img{
    
    
   
+}
+.quotes{
+  /* margin:5% 13%; */
+   background-color: bisque; 
+   height: 100px;;
+}
+
+.header, .footer{
+   background-color: antiquewhite;
+}
+.footer{
+   height: 100px;;
 }
