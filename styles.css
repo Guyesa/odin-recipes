@@ -1,0 +1,49 @@
+
+ .logo-menu {
+    display: flex;
+    justify-content: space-around;
+    gap:1rem;
+    align-items: baseline;
+    
+ }
+ .nav-list{
+    display: flex;
+    
+   
+    list-style: none;
+    gap: 1.5rem;
+   
+    
+ }
+ /*body, div{
+    border: 5px solid red;
+ } */
+ .landing_page{
+    display: flex;
+    justify-content: space-around;
+    gap:1rem;
+    margin:5% 13%; 
+   
+ }
+ a{
+    text-decoration: none;
+ }
+ 
+ .landing_paragraph{
+    padding: 0% 3%;
+
+ }
+.recipes{
+   display:flex;
+   flex: 1;
+   justify-content: space-around;
+   gap: 1rem;
+   margin:5% 13%; 
+}
+img{
+   width:300px;
+   aspect-ratio: 3/2;
+   
+   
+  
+}
